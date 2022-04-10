@@ -4,4 +4,14 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="DTO\ViewModels\" />
+    <Folder Include="DTO\Selects\" />
+    <Folder Include="Mappings\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OAA.Domain\OAA.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

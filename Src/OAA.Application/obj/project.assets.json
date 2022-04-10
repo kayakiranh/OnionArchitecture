@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "OAA.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/OAA.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OAA.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "OAA.Domain/1.0.0": {
+      "type": "project",
+      "path": "../OAA.Domain/OAA.Domain.csproj",
+      "msbuildProject": "../OAA.Domain/OAA.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "OAA.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\husey\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\husey\\Documents\\GitHub\\OnionArchitecture\\Src\\OAA.Domain\\OAA.Domain.csproj": {
+              "projectPath": "C:\\Users\\husey\\Documents\\GitHub\\OnionArchitecture\\Src\\OAA.Domain\\OAA.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
