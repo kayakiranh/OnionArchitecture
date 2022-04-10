@@ -3,7 +3,7 @@
 namespace OAA.Domain.Entities
 {
     /// <summary>
-    /// Education tabel. 
+    /// Education table
     /// Create relationship for students and schools
     /// </summary>
     public class Education : IEntity
