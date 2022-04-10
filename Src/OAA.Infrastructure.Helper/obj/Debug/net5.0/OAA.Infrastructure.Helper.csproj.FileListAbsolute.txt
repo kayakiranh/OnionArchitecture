@@ -1,0 +1,12 @@
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Helper\bin\Debug\net5.0\OAA.Infrastructure.Helper.deps.json
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Helper\bin\Debug\net5.0\OAA.Infrastructure.Helper.dll
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Helper\bin\Debug\net5.0\ref\OAA.Infrastructure.Helper.dll
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Helper\bin\Debug\net5.0\OAA.Infrastructure.Helper.pdb
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Helper\obj\Debug\net5.0\OAA.Infrastructure.Helper.csproj.AssemblyReference.cache
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Helper\obj\Debug\net5.0\OAA.Infrastructure.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Helper\obj\Debug\net5.0\OAA.Infrastructure.Helper.AssemblyInfoInputs.cache
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Helper\obj\Debug\net5.0\OAA.Infrastructure.Helper.AssemblyInfo.cs
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Helper\obj\Debug\net5.0\OAA.Infrastructure.Helper.csproj.CoreCompileInputs.cache
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Helper\obj\Debug\net5.0\OAA.Infrastructure.Helper.dll
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Helper\obj\Debug\net5.0\ref\OAA.Infrastructure.Helper.dll
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Helper\obj\Debug\net5.0\OAA.Infrastructure.Helper.pdb

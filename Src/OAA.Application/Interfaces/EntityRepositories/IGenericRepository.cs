@@ -1,5 +1,6 @@
 ﻿using OAA.Domain.Entities;
 using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace OAA.Application.Interfaces.EntityRepositories
 {
@@ -9,13 +10,13 @@ namespace OAA.Application.Interfaces.EntityRepositories
     /// <typeparam name="T">Any class that inheritences from IEntity</typeparam>
     public interface IGenericRepository<T> where T : IEntity
     {
-        List<T> GetAll();
-        List<T> GetAllByFilter(object filter);
-        List<T> GetAllByPaging(int pageCount, int pageSize = 20);
-        T GetById(int id);
-        T Insert(T model);
-        T Update(T model);
-        bool Remove(int id);
-        bool Truncate();
+        Task<List<T>> GetAll();
+        Task<List<T>> GetAllByFilter(object filter);
+        Task<List<T>> GetAllByPaging(int pageCount, int pageSize = 20);
+        Task<T> GetById(int id);
+        Task<T> Insert(T model);
+        Task<T> Update(T model);
+        Task<bool> Remove(int id);
+        Task<bool> Truncate();
     }
 }

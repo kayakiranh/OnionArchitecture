@@ -1,0 +1,12 @@
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Persistance.Redis\bin\Debug\net5.0\OAA.Infrastructure.Persistance.Redis.deps.json
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Persistance.Redis\bin\Debug\net5.0\OAA.Infrastructure.Persistance.Redis.dll
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Persistance.Redis\bin\Debug\net5.0\ref\OAA.Infrastructure.Persistance.Redis.dll
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Persistance.Redis\bin\Debug\net5.0\OAA.Infrastructure.Persistance.Redis.pdb
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Persistance.Redis\obj\Debug\net5.0\OAA.Infrastructure.Persistance.Redis.csproj.AssemblyReference.cache
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Persistance.Redis\obj\Debug\net5.0\OAA.Infrastructure.Persistance.Redis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Persistance.Redis\obj\Debug\net5.0\OAA.Infrastructure.Persistance.Redis.AssemblyInfoInputs.cache
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Persistance.Redis\obj\Debug\net5.0\OAA.Infrastructure.Persistance.Redis.AssemblyInfo.cs
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Persistance.Redis\obj\Debug\net5.0\OAA.Infrastructure.Persistance.Redis.csproj.CoreCompileInputs.cache
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Persistance.Redis\obj\Debug\net5.0\OAA.Infrastructure.Persistance.Redis.dll
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Persistance.Redis\obj\Debug\net5.0\ref\OAA.Infrastructure.Persistance.Redis.dll
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Persistance.Redis\obj\Debug\net5.0\OAA.Infrastructure.Persistance.Redis.pdb

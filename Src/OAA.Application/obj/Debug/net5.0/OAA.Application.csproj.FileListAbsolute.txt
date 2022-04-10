@@ -1,0 +1,15 @@
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Application\bin\Debug\net5.0\OAA.Application.deps.json
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Application\bin\Debug\net5.0\OAA.Application.dll
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Application\bin\Debug\net5.0\ref\OAA.Application.dll
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Application\bin\Debug\net5.0\OAA.Application.pdb
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Application\bin\Debug\net5.0\OAA.Domain.dll
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Application\bin\Debug\net5.0\OAA.Domain.pdb
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Application\obj\Debug\net5.0\OAA.Application.csproj.AssemblyReference.cache
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Application\obj\Debug\net5.0\OAA.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Application\obj\Debug\net5.0\OAA.Application.AssemblyInfoInputs.cache
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Application\obj\Debug\net5.0\OAA.Application.AssemblyInfo.cs
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Application\obj\Debug\net5.0\OAA.Application.csproj.CoreCompileInputs.cache
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Application\obj\Debug\net5.0\OAA.Application.csproj.CopyComplete
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Application\obj\Debug\net5.0\OAA.Application.dll
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Application\obj\Debug\net5.0\ref\OAA.Application.dll
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Application\obj\Debug\net5.0\OAA.Application.pdb

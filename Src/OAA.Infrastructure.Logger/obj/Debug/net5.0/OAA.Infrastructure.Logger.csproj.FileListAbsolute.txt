@@ -1,0 +1,12 @@
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Logger\bin\Debug\net5.0\OAA.Infrastructure.Logger.deps.json
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Logger\bin\Debug\net5.0\OAA.Infrastructure.Logger.dll
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Logger\bin\Debug\net5.0\ref\OAA.Infrastructure.Logger.dll
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Logger\bin\Debug\net5.0\OAA.Infrastructure.Logger.pdb
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Logger\obj\Debug\net5.0\OAA.Infrastructure.Logger.csproj.AssemblyReference.cache
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Logger\obj\Debug\net5.0\OAA.Infrastructure.Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Logger\obj\Debug\net5.0\OAA.Infrastructure.Logger.AssemblyInfoInputs.cache
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Logger\obj\Debug\net5.0\OAA.Infrastructure.Logger.AssemblyInfo.cs
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Logger\obj\Debug\net5.0\OAA.Infrastructure.Logger.csproj.CoreCompileInputs.cache
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Logger\obj\Debug\net5.0\OAA.Infrastructure.Logger.dll
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Logger\obj\Debug\net5.0\ref\OAA.Infrastructure.Logger.dll
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Logger\obj\Debug\net5.0\OAA.Infrastructure.Logger.pdb

@@ -1,0 +1,12 @@
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Persistance.Mssql\bin\Debug\net5.0\OAA.Infrastructure.Persistance.Mssql.deps.json
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Persistance.Mssql\bin\Debug\net5.0\OAA.Infrastructure.Persistance.Mssql.dll
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Persistance.Mssql\bin\Debug\net5.0\ref\OAA.Infrastructure.Persistance.Mssql.dll
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Persistance.Mssql\bin\Debug\net5.0\OAA.Infrastructure.Persistance.Mssql.pdb
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Persistance.Mssql\obj\Debug\net5.0\OAA.Infrastructure.Persistance.Mssql.csproj.AssemblyReference.cache
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Persistance.Mssql\obj\Debug\net5.0\OAA.Infrastructure.Persistance.Mssql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Persistance.Mssql\obj\Debug\net5.0\OAA.Infrastructure.Persistance.Mssql.AssemblyInfoInputs.cache
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Persistance.Mssql\obj\Debug\net5.0\OAA.Infrastructure.Persistance.Mssql.AssemblyInfo.cs
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Persistance.Mssql\obj\Debug\net5.0\OAA.Infrastructure.Persistance.Mssql.csproj.CoreCompileInputs.cache
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Persistance.Mssql\obj\Debug\net5.0\OAA.Infrastructure.Persistance.Mssql.dll
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Persistance.Mssql\obj\Debug\net5.0\ref\OAA.Infrastructure.Persistance.Mssql.dll
+C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Persistance.Mssql\obj\Debug\net5.0\OAA.Infrastructure.Persistance.Mssql.pdb

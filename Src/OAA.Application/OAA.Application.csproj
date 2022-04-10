@@ -5,9 +5,17 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="DTO\ViewModels\" />
-    <Folder Include="DTO\Selects\" />
-    <Folder Include="Mappings\" />
+    <Folder Include="Cqrs\Commands\EducationCommands\" />
+    <Folder Include="Cqrs\Commands\StudentCommands\" />
+    <Folder Include="Cqrs\Queries\EducationQueries\" />
+    <Folder Include="Cqrs\Queries\StudentQueries\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="MediatR" Version="10.0.1" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="10.0.1" />
   </ItemGroup>
 
   <ItemGroup>
