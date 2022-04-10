@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N+WpfP86W9HjEuwhrbfy3M/DixMS8LoUV77X5MiS7nfkU2s8OLroEHjvGPmKkZy9ipM3fG3MNZOvtYPLRIsvSA==",
+  "dgSpecHash": "O0lJITqdr2XsQMebbMetLOFtYb998HM2MB6//oKs10+wGZDNJkC0z6j12/acEeNrASgediTLQyCBMrPPAXJlwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\husey\\source\\repos\\OnionArchApp\\Src\\OAA.Infrastructure.Logger\\OAA.Infrastructure.Logger.csproj",
+  "projectFilePath": "C:\\Users\\husey\\Documents\\GitHub\\OnionArchitecture\\Src\\OAA.Infrastructure.Logger\\OAA.Infrastructure.Logger.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

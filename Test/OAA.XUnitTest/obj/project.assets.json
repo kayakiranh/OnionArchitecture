@@ -5923,11 +5923,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\husey\\source\\repos\\OnionArchApp\\Test\\OAA.XUnitTest\\OAA.XUnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\husey\\Documents\\GitHub\\OnionArchitecture\\Test\\OAA.XUnitTest\\OAA.XUnitTest.csproj",
       "projectName": "OAA.XUnitTest",
-      "projectPath": "C:\\Users\\husey\\source\\repos\\OnionArchApp\\Test\\OAA.XUnitTest\\OAA.XUnitTest.csproj",
+      "projectPath": "C:\\Users\\husey\\Documents\\GitHub\\OnionArchitecture\\Test\\OAA.XUnitTest\\OAA.XUnitTest.csproj",
       "packagesPath": "C:\\Users\\husey\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\husey\\source\\repos\\OnionArchApp\\Test\\OAA.XUnitTest\\obj\\",
+      "outputPath": "C:\\Users\\husey\\Documents\\GitHub\\OnionArchitecture\\Test\\OAA.XUnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

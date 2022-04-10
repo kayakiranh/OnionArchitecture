@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.32228.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{AF504B84-9C35-4218-938B-9D8D8893451D}"
 	ProjectSection(SolutionItems) = preProject
-		Readme.txt = Readme.txt
+		..\..\..\source\repos\OnionArchApp\Docs\Readme.txt = ..\..\..\source\repos\OnionArchApp\Docs\Readme.txt
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{D819FAEA-8D5C-400B-BC7A-51D85A50E46D}"
@@ -18,33 +18,33 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastru
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Persistance", "Persistance", "{B60666A0-FE5E-4227-8DA1-B6B1C29912A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAA.MSTest", "Test\OAA.MSTest\OAA.MSTest.csproj", "{0F7EBDA2-2DFB-4DA6-8018-E5E2C8656A8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OAA.MSTest", "Test\OAA.MSTest\OAA.MSTest.csproj", "{0F7EBDA2-2DFB-4DA6-8018-E5E2C8656A8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAA.XUnitTest", "Test\OAA.XUnitTest\OAA.XUnitTest.csproj", "{ED13AE4C-7D9C-4A68-91CA-697A6F95CE55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OAA.XUnitTest", "Test\OAA.XUnitTest\OAA.XUnitTest.csproj", "{ED13AE4C-7D9C-4A68-91CA-697A6F95CE55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAA.NUnitTest", "Test\OAA.NUnitTest\OAA.NUnitTest.csproj", "{F2846845-D8BD-4809-896E-F5B21727F874}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OAA.NUnitTest", "Test\OAA.NUnitTest\OAA.NUnitTest.csproj", "{F2846845-D8BD-4809-896E-F5B21727F874}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAA.Application", "Src\OAA.Application\OAA.Application.csproj", "{76A67988-7317-4F3B-B872-7E19EBB4D465}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OAA.Application", "Src\OAA.Application\OAA.Application.csproj", "{76A67988-7317-4F3B-B872-7E19EBB4D465}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAA.Domain", "Src\OAA.Domain\OAA.Domain.csproj", "{88008946-767F-40AE-887C-B386AC5342C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OAA.Domain", "Src\OAA.Domain\OAA.Domain.csproj", "{88008946-767F-40AE-887C-B386AC5342C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAA.Infrastructure.Logger", "Src\OAA.Infrastructure.Logger\OAA.Infrastructure.Logger.csproj", "{AF4EFA1F-BA38-4EE3-B4AA-34160BA47500}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OAA.Infrastructure.Logger", "Src\OAA.Infrastructure.Logger\OAA.Infrastructure.Logger.csproj", "{AF4EFA1F-BA38-4EE3-B4AA-34160BA47500}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAA.Infrastructure.Helper", "Src\OAA.Infrastructure.Helper\OAA.Infrastructure.Helper.csproj", "{CF514348-48F3-4615-AFAE-BD1A0EA9A260}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OAA.Infrastructure.Helper", "Src\OAA.Infrastructure.Helper\OAA.Infrastructure.Helper.csproj", "{CF514348-48F3-4615-AFAE-BD1A0EA9A260}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAA.Infrastructure.Persistance.Mssql", "Src\OAA.Infrastructure.Persistance.Mssql\OAA.Infrastructure.Persistance.Mssql.csproj", "{FBF07ADA-ED13-40D3-89AC-9E9E7FDA4E97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OAA.Infrastructure.Persistance.Mssql", "Src\OAA.Infrastructure.Persistance.Mssql\OAA.Infrastructure.Persistance.Mssql.csproj", "{FBF07ADA-ED13-40D3-89AC-9E9E7FDA4E97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAA.Infrastructure.Persistance.Redis", "Src\OAA.Infrastructure.Persistance.Redis\OAA.Infrastructure.Persistance.Redis.csproj", "{6E5FC79B-4728-4ACD-9FBA-E799313BC968}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OAA.Infrastructure.Persistance.Redis", "Src\OAA.Infrastructure.Persistance.Redis\OAA.Infrastructure.Persistance.Redis.csproj", "{6E5FC79B-4728-4ACD-9FBA-E799313BC968}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAA.Infrastructure.Mailer", "Src\OAA.Infrastructure.Mailer\OAA.Infrastructure.Mailer.csproj", "{41C789DF-B27B-43B7-B89B-8BAFC8B8A833}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OAA.Infrastructure.Mailer", "Src\OAA.Infrastructure.Mailer\OAA.Infrastructure.Mailer.csproj", "{41C789DF-B27B-43B7-B89B-8BAFC8B8A833}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{C1F656E3-5104-44F6-9591-D811A4EC5F27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAA.UI.RestApi", "Src\OAA.UI.RestApi\OAA.UI.RestApi.csproj", "{221C2BAD-6ACB-43D8-BE7B-1561366071ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OAA.UI.RestApi", "Src\OAA.UI.RestApi\OAA.UI.RestApi.csproj", "{221C2BAD-6ACB-43D8-BE7B-1561366071ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAA.UI.SoapApi", "Src\OAA.UI.SoapApi\OAA.UI.SoapApi.csproj", "{F9A50587-5E11-44C5-9E5E-275DEA7CE650}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OAA.UI.SoapApi", "Src\OAA.UI.SoapApi\OAA.UI.SoapApi.csproj", "{F9A50587-5E11-44C5-9E5E-275DEA7CE650}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAA.UI.Web.Core", "Src\OAA.UI.Web.Core\OAA.UI.Web.Core.csproj", "{677DBC0B-A8C6-4B04-827A-AF5DE816D0A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OAA.UI.Web.Core", "Src\OAA.UI.Web.Core\OAA.UI.Web.Core.csproj", "{677DBC0B-A8C6-4B04-827A-AF5DE816D0A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

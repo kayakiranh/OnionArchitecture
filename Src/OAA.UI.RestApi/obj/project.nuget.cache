@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O061svBWan9boluToz31+N30omuX10KCBRQ0dyndgqYRln9hMQ2CztcUdrLGswdpeyYYPQ0TJ2e0s1ieqrEUHQ==",
+  "dgSpecHash": "QN8ymfZFYbSGNpRZpNSzEEvRJmLHVPMron6SClk6T/xdWzs/qYCw+D0oKZXxdmcgjEBZMtgqs5ebZI3G/RP+xQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\husey\\source\\repos\\OnionArchApp\\Src\\OAA.UI.RestApi\\OAA.UI.RestApi.csproj",
+  "projectFilePath": "C:\\Users\\husey\\Documents\\GitHub\\OnionArchitecture\\Src\\OAA.UI.RestApi\\OAA.UI.RestApi.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

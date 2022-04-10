@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\husey\\source\\repos\\OnionArchApp\\Src\\OAA.Infrastructure.Persistance.Mssql\\OAA.Infrastructure.Persistance.Mssql.csproj": {}
+    "C:\\Users\\husey\\Documents\\GitHub\\OnionArchitecture\\Src\\OAA.Infrastructure.Persistance.Mssql\\OAA.Infrastructure.Persistance.Mssql.csproj": {}
   },
   "projects": {
-    "C:\\Users\\husey\\source\\repos\\OnionArchApp\\Src\\OAA.Infrastructure.Persistance.Mssql\\OAA.Infrastructure.Persistance.Mssql.csproj": {
+    "C:\\Users\\husey\\Documents\\GitHub\\OnionArchitecture\\Src\\OAA.Infrastructure.Persistance.Mssql\\OAA.Infrastructure.Persistance.Mssql.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\husey\\source\\repos\\OnionArchApp\\Src\\OAA.Infrastructure.Persistance.Mssql\\OAA.Infrastructure.Persistance.Mssql.csproj",
+        "projectUniqueName": "C:\\Users\\husey\\Documents\\GitHub\\OnionArchitecture\\Src\\OAA.Infrastructure.Persistance.Mssql\\OAA.Infrastructure.Persistance.Mssql.csproj",
         "projectName": "OAA.Infrastructure.Persistance.Mssql",
-        "projectPath": "C:\\Users\\husey\\source\\repos\\OnionArchApp\\Src\\OAA.Infrastructure.Persistance.Mssql\\OAA.Infrastructure.Persistance.Mssql.csproj",
+        "projectPath": "C:\\Users\\husey\\Documents\\GitHub\\OnionArchitecture\\Src\\OAA.Infrastructure.Persistance.Mssql\\OAA.Infrastructure.Persistance.Mssql.csproj",
         "packagesPath": "C:\\Users\\husey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\husey\\source\\repos\\OnionArchApp\\Src\\OAA.Infrastructure.Persistance.Mssql\\obj\\",
+        "outputPath": "C:\\Users\\husey\\Documents\\GitHub\\OnionArchitecture\\Src\\OAA.Infrastructure.Persistance.Mssql\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

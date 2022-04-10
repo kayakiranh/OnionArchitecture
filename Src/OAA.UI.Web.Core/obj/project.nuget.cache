@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ThSPWepmdk+MvdTnPcFobBXZe17CkulucPiBY/ekwqlyoyuN7CdmrBm7v9rQ/liaEf+7PfhcgR610DYqm9fscg==",
+  "dgSpecHash": "anF6V/Uw77dizbz4z9UgZsDgu8qWVHAkZJIBERVgCLhK5iX+JKTtsiZwzxBhR2VSzqT/fu3hmd/gL5WYCUpzcA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\husey\\source\\repos\\OnionArchApp\\Src\\OAA.UI.Web.Core\\OAA.UI.Web.Core.csproj",
+  "projectFilePath": "C:\\Users\\husey\\Documents\\GitHub\\OnionArchitecture\\Src\\OAA.UI.Web.Core\\OAA.UI.Web.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

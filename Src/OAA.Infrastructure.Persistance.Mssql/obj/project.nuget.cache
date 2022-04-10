@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PUuNJTM4dUMnBKHI/EWyuv4oBINrMxsCtQTFP/BrmcXX0OWxYZLd+KKmGsXwZM7FO+WAE0L+/ey8jPqvc6XwFA==",
+  "dgSpecHash": "jk9Zo/ReuQNink72XN5OvL+/afKTqjLa4yj4XxITF5nXfNplGWjA9B4/DxCqU7/5gujeq743lrR0CobdMzMoDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\husey\\source\\repos\\OnionArchApp\\Src\\OAA.Infrastructure.Persistance.Mssql\\OAA.Infrastructure.Persistance.Mssql.csproj",
+  "projectFilePath": "C:\\Users\\husey\\Documents\\GitHub\\OnionArchitecture\\Src\\OAA.Infrastructure.Persistance.Mssql\\OAA.Infrastructure.Persistance.Mssql.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

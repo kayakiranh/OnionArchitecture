@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\husey\\source\\repos\\OnionArchApp\\Src\\OAA.UI.RestApi\\OAA.UI.RestApi.csproj",
+      "projectUniqueName": "C:\\Users\\husey\\Documents\\GitHub\\OnionArchitecture\\Src\\OAA.UI.RestApi\\OAA.UI.RestApi.csproj",
       "projectName": "OAA.UI.RestApi",
-      "projectPath": "C:\\Users\\husey\\source\\repos\\OnionArchApp\\Src\\OAA.UI.RestApi\\OAA.UI.RestApi.csproj",
+      "projectPath": "C:\\Users\\husey\\Documents\\GitHub\\OnionArchitecture\\Src\\OAA.UI.RestApi\\OAA.UI.RestApi.csproj",
       "packagesPath": "C:\\Users\\husey\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\husey\\source\\repos\\OnionArchApp\\Src\\OAA.UI.RestApi\\obj\\",
+      "outputPath": "C:\\Users\\husey\\Documents\\GitHub\\OnionArchitecture\\Src\\OAA.UI.RestApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

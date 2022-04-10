@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\husey\\source\\repos\\OnionArchApp\\Src\\OAA.Domain\\OAA.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\husey\\Documents\\GitHub\\OnionArchitecture\\Src\\OAA.Domain\\OAA.Domain.csproj",
       "projectName": "OAA.Domain",
-      "projectPath": "C:\\Users\\husey\\source\\repos\\OnionArchApp\\Src\\OAA.Domain\\OAA.Domain.csproj",
+      "projectPath": "C:\\Users\\husey\\Documents\\GitHub\\OnionArchitecture\\Src\\OAA.Domain\\OAA.Domain.csproj",
       "packagesPath": "C:\\Users\\husey\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\husey\\source\\repos\\OnionArchApp\\Src\\OAA.Domain\\obj\\",
+      "outputPath": "C:\\Users\\husey\\Documents\\GitHub\\OnionArchitecture\\Src\\OAA.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

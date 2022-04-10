@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e6epkR7Ary05AEpOiRPW/LN5IWcnwgQL2YyptGwCNlveOQqDjdBoiIxV+10Sa6HgiZ0yx3CaAeHf6yNRrmIR+A==",
+  "dgSpecHash": "lbGzjPvB1gB5zm6fux72lH8BqWQRHyGF6zxxs92b+vISOG3ScQerXKBtowo2IObcTGDy9Nz3MqYvV34otsgpCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\husey\\source\\repos\\OnionArchApp\\Test\\OAA.NUnitTest\\OAA.NUnitTest.csproj",
+  "projectFilePath": "C:\\Users\\husey\\Documents\\GitHub\\OnionArchitecture\\Test\\OAA.NUnitTest\\OAA.NUnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\husey\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\husey\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

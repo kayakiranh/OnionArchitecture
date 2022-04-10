@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P1yeeGk4Cc3M7e0jxSsUqB5VPwen2SscAoisEybBshKU1kIfWmSDl+ip3UQDPlPtpwOT5sbj/IL1Ou7lbRPSfQ==",
+  "dgSpecHash": "98IZLW9X9HXcQFgGYUIPvks/2yjh/3iB1Al78DfFAOaRYiIT38tv40m5ND89lO3cn26Q264EWN05JY9iZ2J+WA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\husey\\source\\repos\\OnionArchApp\\Src\\OAA.Infrastructure.Persistance.Redis\\OAA.Infrastructure.Persistance.Redis.csproj",
+  "projectFilePath": "C:\\Users\\husey\\Documents\\GitHub\\OnionArchitecture\\Src\\OAA.Infrastructure.Persistance.Redis\\OAA.Infrastructure.Persistance.Redis.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

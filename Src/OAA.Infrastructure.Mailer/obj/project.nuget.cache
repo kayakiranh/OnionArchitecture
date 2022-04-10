@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fXQPLlA8r4PcforaJ6CFH4lvzgCniIBL2V8l+N7mVJ4AqM/3z5rB/OShiCRLnFJXs5M8djHVGnI8ddmvoWikwA==",
+  "dgSpecHash": "RcNJPzoBItdw8X72kncGPTzcgR0+kqSoBUXx8/Rhhvc9rkZHTE5ZS2Fu1f65k3BF086QGYnOM4VCDJYXWP5cBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\husey\\source\\repos\\OnionArchApp\\Src\\OAA.Infrastructure.Mailer\\OAA.Infrastructure.Mailer.csproj",
+  "projectFilePath": "C:\\Users\\husey\\Documents\\GitHub\\OnionArchitecture\\Src\\OAA.Infrastructure.Mailer\\OAA.Infrastructure.Mailer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

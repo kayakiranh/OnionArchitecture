@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\husey\\source\\repos\\OnionArchApp\\Src\\OAA.Infrastructure.Persistance.Redis\\OAA.Infrastructure.Persistance.Redis.csproj",
+      "projectUniqueName": "C:\\Users\\husey\\Documents\\GitHub\\OnionArchitecture\\Src\\OAA.Infrastructure.Persistance.Redis\\OAA.Infrastructure.Persistance.Redis.csproj",
       "projectName": "OAA.Infrastructure.Persistance.Redis",
-      "projectPath": "C:\\Users\\husey\\source\\repos\\OnionArchApp\\Src\\OAA.Infrastructure.Persistance.Redis\\OAA.Infrastructure.Persistance.Redis.csproj",
+      "projectPath": "C:\\Users\\husey\\Documents\\GitHub\\OnionArchitecture\\Src\\OAA.Infrastructure.Persistance.Redis\\OAA.Infrastructure.Persistance.Redis.csproj",
       "packagesPath": "C:\\Users\\husey\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\husey\\source\\repos\\OnionArchApp\\Src\\OAA.Infrastructure.Persistance.Redis\\obj\\",
+      "outputPath": "C:\\Users\\husey\\Documents\\GitHub\\OnionArchitecture\\Src\\OAA.Infrastructure.Persistance.Redis\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

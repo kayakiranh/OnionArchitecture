@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\husey\\source\\repos\\OnionArchApp\\Test\\OAA.MSTest\\OAA.MSTest.csproj": {}
+    "C:\\Users\\husey\\Documents\\GitHub\\OnionArchitecture\\Test\\OAA.MSTest\\OAA.MSTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\husey\\source\\repos\\OnionArchApp\\Test\\OAA.MSTest\\OAA.MSTest.csproj": {
+    "C:\\Users\\husey\\Documents\\GitHub\\OnionArchitecture\\Test\\OAA.MSTest\\OAA.MSTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\husey\\source\\repos\\OnionArchApp\\Test\\OAA.MSTest\\OAA.MSTest.csproj",
+        "projectUniqueName": "C:\\Users\\husey\\Documents\\GitHub\\OnionArchitecture\\Test\\OAA.MSTest\\OAA.MSTest.csproj",
         "projectName": "OAA.MSTest",
-        "projectPath": "C:\\Users\\husey\\source\\repos\\OnionArchApp\\Test\\OAA.MSTest\\OAA.MSTest.csproj",
+        "projectPath": "C:\\Users\\husey\\Documents\\GitHub\\OnionArchitecture\\Test\\OAA.MSTest\\OAA.MSTest.csproj",
         "packagesPath": "C:\\Users\\husey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\husey\\source\\repos\\OnionArchApp\\Test\\OAA.MSTest\\obj\\",
+        "outputPath": "C:\\Users\\husey\\Documents\\GitHub\\OnionArchitecture\\Test\\OAA.MSTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
