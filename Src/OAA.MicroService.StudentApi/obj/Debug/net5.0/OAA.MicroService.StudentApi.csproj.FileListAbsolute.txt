@@ -7,7 +7,6 @@ C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.MicroService.StudentAp
 C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.MicroService.StudentApi\bin\Debug\net5.0\OAA.MicroService.StudentApi.dll
 C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.MicroService.StudentApi\bin\Debug\net5.0\ref\OAA.MicroService.StudentApi.dll
 C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.MicroService.StudentApi\bin\Debug\net5.0\OAA.MicroService.StudentApi.pdb
-C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.MicroService.StudentApi\obj\Debug\net5.0\OAA.MicroService.StudentApi.csproj.AssemblyReference.cache
 C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.MicroService.StudentApi\obj\Debug\net5.0\OAA.MicroService.StudentApi.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.MicroService.StudentApi\obj\Debug\net5.0\OAA.MicroService.StudentApi.AssemblyInfoInputs.cache
 C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.MicroService.StudentApi\obj\Debug\net5.0\OAA.MicroService.StudentApi.AssemblyInfo.cs

@@ -2,7 +2,6 @@ C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Mailer\
 C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Mailer\bin\Debug\net5.0\OAA.Infrastructure.Mailer.dll
 C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Mailer\bin\Debug\net5.0\ref\OAA.Infrastructure.Mailer.dll
 C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Mailer\bin\Debug\net5.0\OAA.Infrastructure.Mailer.pdb
-C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Mailer\obj\Debug\net5.0\OAA.Infrastructure.Mailer.csproj.AssemblyReference.cache
 C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Mailer\obj\Debug\net5.0\OAA.Infrastructure.Mailer.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Mailer\obj\Debug\net5.0\OAA.Infrastructure.Mailer.AssemblyInfoInputs.cache
 C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.Infrastructure.Mailer\obj\Debug\net5.0\OAA.Infrastructure.Mailer.AssemblyInfo.cs

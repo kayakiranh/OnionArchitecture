@@ -15,7 +15,6 @@ C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.MicroService.ApiGatewa
 C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.MicroService.ApiGateway\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.MicroService.ApiGateway\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
 C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.MicroService.ApiGateway\bin\Debug\net5.0\Ocelot.dll
-C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.MicroService.ApiGateway\obj\Debug\net5.0\OAA.MicroService.ApiGateway.csproj.AssemblyReference.cache
 C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.MicroService.ApiGateway\obj\Debug\net5.0\OAA.MicroService.ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.MicroService.ApiGateway\obj\Debug\net5.0\OAA.MicroService.ApiGateway.AssemblyInfoInputs.cache
 C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.MicroService.ApiGateway\obj\Debug\net5.0\OAA.MicroService.ApiGateway.AssemblyInfo.cs

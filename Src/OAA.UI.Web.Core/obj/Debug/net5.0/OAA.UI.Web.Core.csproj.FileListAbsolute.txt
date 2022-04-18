@@ -7,7 +7,6 @@ C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.UI.Web.Core\bin\Debug\
 C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.UI.Web.Core\bin\Debug\net5.0\OAA.UI.Web.Core.dll
 C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.UI.Web.Core\bin\Debug\net5.0\ref\OAA.UI.Web.Core.dll
 C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.UI.Web.Core\bin\Debug\net5.0\OAA.UI.Web.Core.pdb
-C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.UI.Web.Core\obj\Debug\net5.0\OAA.UI.Web.Core.csproj.AssemblyReference.cache
 C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.UI.Web.Core\obj\Debug\net5.0\OAA.UI.Web.Core.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.UI.Web.Core\obj\Debug\net5.0\OAA.UI.Web.Core.AssemblyInfoInputs.cache
 C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.UI.Web.Core\obj\Debug\net5.0\OAA.UI.Web.Core.AssemblyInfo.cs

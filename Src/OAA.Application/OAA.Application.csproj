@@ -9,6 +9,7 @@
     <Folder Include="Cqrs\Commands\StudentCommands\" />
     <Folder Include="Cqrs\Queries\EducationQueries\" />
     <Folder Include="Cqrs\Queries\StudentQueries\" />
+    <Folder Include="Interfaces\DomainRepositories\Redis\" />
   </ItemGroup>
 
   <ItemGroup>

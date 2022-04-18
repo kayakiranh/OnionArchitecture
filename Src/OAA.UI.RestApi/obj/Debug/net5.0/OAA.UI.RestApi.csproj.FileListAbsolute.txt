@@ -7,7 +7,6 @@ C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.UI.RestApi\bin\Debug\n
 C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.UI.RestApi\bin\Debug\net5.0\OAA.UI.RestApi.dll
 C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.UI.RestApi\bin\Debug\net5.0\ref\OAA.UI.RestApi.dll
 C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.UI.RestApi\bin\Debug\net5.0\OAA.UI.RestApi.pdb
-C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.UI.RestApi\obj\Debug\net5.0\OAA.UI.RestApi.csproj.AssemblyReference.cache
 C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.UI.RestApi\obj\Debug\net5.0\OAA.UI.RestApi.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.UI.RestApi\obj\Debug\net5.0\OAA.UI.RestApi.AssemblyInfoInputs.cache
 C:\Users\husey\Documents\GitHub\OnionArchitecture\Src\OAA.UI.RestApi\obj\Debug\net5.0\OAA.UI.RestApi.AssemblyInfo.cs
